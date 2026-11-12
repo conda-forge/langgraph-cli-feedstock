@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: "0.4.40"
+  version: "0.4.43"
 
 package:
   name: langgraph-cli
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/l/langgraph-cli/langgraph_cli-${{ version }}.tar.gz
-  sha256: c0a75dc9816021e156362730286c926f5bdac478c85f3cceb441a425f80838af
+  sha256: 61d03423ab598e6597d9217fe0ffd697aa9c61607adb133acfaf21a62bd1e422
 
 build:
   number: 0
